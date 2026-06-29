@@ -19,7 +19,7 @@ origins = [
     "http://localhost:80",
     "http://localhost:3000",
     "http://localhost:5173",
-    "https://your-backend-name.onrender.com", # For testing/deployment purposes, allow all or configure strictly
+    "https://inventory-management-system-eight-sigma.vercel.app", # For testing/deployment purposes, allow all or configure strictly
 ]
 
 app.add_middleware(
